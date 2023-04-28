@@ -16,7 +16,7 @@ In other words, Jane Austen remains an enigmatic, somewhat mysterious figure, no
 Excitingly, whether they grew up with Austen culturally or learned about Austen through colonially-inflected education, many people around the world put much effort into adapting Austen through their own eyes. With the advent of the popular film and tv adaptations of the 1990s and early 2000s, many people enter the Austen fandom through the media representations and work their way back to the books and to Austen herself. 
 
 This project breaks down the adaptations already published or released by the novels they sought to adapt. Some adaptations clearly align with one Austen work, others meld influences from multiple sources. Below, you will find the 6 Austen novels listed with posts for the adaptations of each in chronological order. You will also find a category for Austen's Juvenilia and Unfinished Works, as well as a category for Other Austen Resources of interest.  
-
+<br>
 The Catalogue: 
 <br>
 [Pride and Prejudice Adaptations](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/1.Pride-and-Prejudice-Adaptations.html) <br> 
