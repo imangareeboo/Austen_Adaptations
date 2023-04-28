@@ -1,2 +1,2 @@
-# Austen_Adaptations
-An Ongoing Catalogue of Adaptions of Jane Austen's Corpus
+# Adapting Jane Austen
+Cataloguing Adaptions of Jane Austen's Corpus
