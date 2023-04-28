@@ -17,4 +17,15 @@ Excitingly, whether they grew up with Austen culturally or learned about Austen 
 
 This project breaks down the adaptations already published or released by the novels they sought to adapt. Some adaptations clearly align with one Austen work, others meld influences from multiple sources. Below, you will find the 6 Austen novels listed with posts for the adaptations of each in chronological order. You will also find a category for Austen's Juvenilia and Unfinished Works, as well as a category for Other Austen Resources of interest.  
 
-For a lengthier overview on Jane Austen, please visit the Jane Austen Biography and More post on this website or refer to her [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens) page. This site's biographical post on her also includes a list of books written on Austen and her works, ranging from biographical books to academic analysis anthologies. 
+The Catalogue: 
+
+[Pride and Prejudice Adaptations](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/1.Pride-and-Prejudice-Adaptations.html)
+[Sense and Sensibility Adaptations](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/2.Sense-and-Sensibility-Adaptations.html)
+[Mansfield Park Adaptations](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/3.Mansfield-Park-Adaptations.html)
+[Emma Adaptations](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/4.Emma-Adaptations.html)
+[Northanger Abbey Adaptations](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/5.Northanger-Abbey-Adaptations.html)
+[Persuasion Adaptations](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/6.Persuasion-Adaptations.html)
+[Adaptations of Austen's Unpublished Works](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/7.Juvenilia-and-Unfinished-Works.html)
+[Janeite & Austenite Resources](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/8.Austen-Resources.html)
+[Austen's Context](https://imangareeboo.github.io/Austen_Adaptations/2023/04/25/austencontemps.html)
+[BiblioResources](https://imangareeboo.github.io/Austen_Adaptations/2023/04/25/biblioresources.html)
