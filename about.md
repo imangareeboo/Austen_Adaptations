@@ -5,7 +5,7 @@ title: About the Catalogue
 <figure>
   <img alt="Jane Austen" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg" />
   <figcaption>
-    Drawing by Cassandra Austen and sourced from the National Portrait Gallery, Public domain, via Wikimedia Commons href="https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg"><img width="256" alt="CassandraAusten-JaneAusten(c.1810)"></a>
+    Drawing by Cassandra Austen and sourced from the National Portrait Gallery, Public domain, via Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg">CassandraAusten-JaneAusten<img width="256" alt="CassandraAusten-JaneAusten(c.1810)"></a>
   </figcaption>
 </figure>
 
@@ -17,4 +17,4 @@ Excitingly, whether they grew up with Austen culturally or learned about Austen 
 
 This project breaks down the adaptations already published or released by the novels they sought to adapt. Some adaptations clearly align with one Austen work, others meld influences from multiple sources. Below, you will find the 6 Austen novels listed with posts for the adaptations of each in chronological order. You will also find a category for Austen's Juvenilia and Unfinished Works, as well as a category for Other Austen Resources of interest.  
 
-For a lengthier overview on Jane Austen, please visit the Jane Austen Biography and More post on this website or refer to her [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens)page. This site's biographical post on her also includes a list of books written on Austen and her works, ranging from biographical books to academic analysis anthologies. 
+For a lengthier overview on Jane Austen, please visit the Jane Austen Biography and More post on this website or refer to her [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens) page. This site's biographical post on her also includes a list of books written on Austen and her works, ranging from biographical books to academic analysis anthologies. 
