@@ -3,9 +3,9 @@ layout: post
 title: About the Catalogue
 ---
 <figure>
-  <img alt="Jane Austen" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg" />
+  <img alt="Jane Austen" src="ttps://upload.wikimedia.org/wikipedia/commons/f/f6/Old_violin.jpg" />
   <figcaption>
-    Drawing by Cassandra Austen and sourced from the National Portrait Gallery, Public domain, via Wikimedia Commons <a href="https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg">CassandraAusten-JaneAusten<img width="256" alt="CassandraAusten-JaneAusten(c.1810)"></a>
+   <a title="Cassandra Austen (1773–1845), Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cassandra_Austen-Jane_Austen(c.1810).jpg"><img width="512" alt="Cassandra Austen-Jane Austen(c.1810)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cassandra_Austen-Jane_Austen%28c.1810%29.jpg/512px-Cassandra_Austen-Jane_Austen%28c.1810%29.jpg"></a>
   </figcaption>
 </figure>
 
