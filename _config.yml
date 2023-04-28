@@ -51,5 +51,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   
-paginate: 1
-paginate_path: "/page/:num/"
+
