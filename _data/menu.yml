@@ -1,8 +1,17 @@
-- title: The Catalogue
-  url: /about.html
-
 - title: The Project
   url: /aboutproject.html
+  
+- title: The Catalogue
+  url: /about.html
+  
+- title: Austen's Context
+  url: /austencontemps
+
+- title: BiblioResources
+  url: /biblioresources.html
+  
+- title: The Creator
+  url: https://imangareeboo.github.io
 
 - title: Source Code
   url: https://github.com/imangareeboo/AA
@@ -10,8 +19,4 @@
 - title: Designer
   url: http://patdryburgh.com
   
-- title: BiblioResources
-  url: /biblioresources.html
-  
-- title: Austen's Context
-  url: /austencontemps
+
