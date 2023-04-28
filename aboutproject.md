@@ -21,9 +21,8 @@ Outside of individual research, the Rosenbach Musem & Library's "Austen Mondays"
 
 ### Is This Catalogue Complete?
 
-**HAHAHAHAHA** 
 Absolutely NOT.
-Cataloguing Adaptations of Austen is a daunting project because there are often a slew of adaptations published every year, and some are more accessible than others. 
+Cataloguing Adaptations of Austen is a daunting project because there are often a slew of adaptations published every year, and some are more accessible than others.  
 > In truth, this is more easily described as: "An Evolving Catalogue of English-language Austen Adaptations*. 
 
 ### What Lies in the Future?
