@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BiblioResources To-Be-Read
+title: Academic Resources
 ---
 
 A working list of primarily academic resources of interest to the creator. This page has been created in the hopes that it may benefit anyone interested in dipping their toes into reading Jane Austen critical articles. 
