@@ -25,7 +25,7 @@ The Catalogue:
 [Emma Adaptations](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/4.Emma-Adaptations.html) <br> 
 [Northanger Abbey Adaptations](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/5.Northanger-Abbey-Adaptations.html) <br> 
 [Persuasion Adaptations](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/6.Persuasion-Adaptations.html) <br> 
-[Adaptations of Austen's Unpublished Works](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/7.Juvenilia-and-Unfinished-Works.html) <br> 
-[Janeite & Austenite Resources](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/8.Austen-Resources.html) <br> 
+[Austen's Unpublished Works Adapted](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/7.Juvenilia-and-Unfinished-Works.html) <br> 
+[Austen Community](https://imangareeboo.github.io/Austen_Adaptations/literature/2023/04/25/8.Austen-Resources.html) <br> 
 [Austen's Influences & Contemporaries](https://imangareeboo.github.io/Austen_Adaptations/2023/04/25/austencontemps.html) <br> 
-[BiblioResources](https://imangareeboo.github.io/Austen_Adaptations/2023/04/25/biblioresources.html) <br> 
+[Academic Resources](https://imangareeboo.github.io/Austen_Adaptations/2023/04/25/biblioresources.html) <br> 
