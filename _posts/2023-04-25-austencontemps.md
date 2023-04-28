@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Austen's Context
+title: Austen's Influences & Contemporaries
 ---
 
 In an ideal world, this site could be used to make links between Austen's predecessors and contemporaries, her works, and the adaptations that ensued after her death. For the purpose of displaying the information the creator has collected on Austen's possible influences and her contemporaries, a list of questions answered with potential authors and texts follows. 
