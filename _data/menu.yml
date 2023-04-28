@@ -1,7 +1,10 @@
-- title: About the Catalogue
+- title: The Catalogue
   url: /about.html
 
-- title: Source
+- title: The Project
+  url: /aboutproject.html
+
+- title: Source Code
   url: https://github.com/imangareeboo/AA
 
 - title: Designer
