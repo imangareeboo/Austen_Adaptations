@@ -32,14 +32,17 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>Frances Burney </li>
  </ul>
 
+
 ### Poets
 <ul>
  <li>Pope <i>The Dunciad</i> (1728-1743)</li>
  <li>Cowper’s poetry </li>
  </ul>
 
+
 ## Austen’s Female Contemporaries and Why She Outstrips Them in Popular Literature 
 *(need to define popular: popular in pop culture, popular to masses, popular/easy to market…)*
+
 ### Mary Wollstonecraft’s 
 <ul>
  <li><i>A Vindication of the Rights of Woman</i> (1792)</li>
