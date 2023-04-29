@@ -14,32 +14,6 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>Threading a narrative between Elizabethan/Jacobean writing, what comes before Cromwell’s Protectorate, how does the Protectorate impacts literary life and through the ban on plays/censorship of writing through to the Restoration and the evolution of writing/censorship/genre/etc…?</li>
  </ul>
 
-## What did Jane Austen read? (this needs massive expansion/research)
-### Gothic and Pulp fiction 
-<ul>
- <li>Horace Walpole’s <i>The Castle of Otranto</i> (1764)</li>
- <li>Ann Radcliffe <i>The Mysteries of Udolpho</i> (1794), <i>The Italian</i> (1797)</li>
- <li>Clara Reeve’s <i>The Old English Baron</i> (1778)</li>
-</ul>
-
-### Poets
-<ul>
- <li>Pope <i>The Dunciad</i> (1728-1743)</li>
- <li>Cowper’s poetry </li>
-</ul>
-
-
-### Novelists 
-(may also need to explore the “Trend of Epistolary Novels”)
-<ul>
- <li>Samuel Richardson’s *Pamela* (1740), <i>Clarissa</i> (1748), <i>The History of Sir Charles Grandison</i> (1753)<li> 
- <li>Henry Fielding’s <i>The History of Tom Jones, a Foundling</i> (1749)</li>
- <li>Samuel Johnson! Essays in the <i>Rambler</i>, <i>Idler</i>, <i>Adventurer</i>;<i>Lives of the Poets</i>, <i>Rasselas</i>...His <i>Dictionary</i></li>
- <li>Laurence Sterne<i>Tristram Shandy</i> (1759-1767)</li>
- <li>Frances Burney </li>
-</ul>
-
-
 ## Austen’s Female Contemporaries 
 *(need to define popular: popular in pop culture, popular to masses, popular/easy to market…)*
 
@@ -77,3 +51,30 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>Matthew Lewis (born same year as Austen, died year after Austen) <i>The Monk</i> (1796)</li>
  <li>Edmund Burke’s <i>Reflection on the Revolution</i></li>
 </ul>
+
+## What did Jane Austen read? (this needs massive expansion/research)
+### Gothic and Pulp fiction 
+<ul>
+ <li>Horace Walpole’s <i>The Castle of Otranto</i> (1764)</li>
+ <li>Ann Radcliffe <i>The Mysteries of Udolpho</i> (1794), <i>The Italian</i> (1797)</li>
+ <li>Clara Reeve’s <i>The Old English Baron</i> (1778)</li>
+</ul>
+
+### Poets
+<ul>
+ <li>Pope <i>The Dunciad</i> (1728-1743)</li>
+ <li>Cowper’s poetry </li>
+</ul>
+
+
+### Novelists 
+(may also need to explore the “Trend of Epistolary Novels”)
+<ul>
+ <li>Samuel Richardson’s *Pamela* (1740), <i>Clarissa</i> (1748), <i>The History of Sir Charles Grandison</i> (1753)<li> 
+ <li>Henry Fielding’s <i>The History of Tom Jones, a Foundling</i> (1749)</li>
+ <li>Samuel Johnson! Essays in the <i>Rambler</i>, <i>Idler</i>, <i>Adventurer</i>;<i>Lives of the Poets</i>, <i>Rasselas</i>...His <i>Dictionary</i></li>
+ <li>Laurence Sterne<i>Tristram Shandy</i> (1759-1767)</li>
+ <li>Frances Burney </li>
+</ul>
+
+
