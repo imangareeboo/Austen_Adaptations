@@ -76,6 +76,6 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>Samuel Johnson! Essays in the <i>Rambler</i>, <i>Idler</i>, <i>Adventurer</i>;<i>Lives of the Poets</i>, <i>Rasselas</i>...His <i>Dictionary</i></li>
  <li>Laurence Sterne<i>Tristram Shandy</i> (1759-1767)</li>
  <li>Frances Burney </li>
-</ul>
+
 
 
