@@ -14,10 +14,11 @@ As a disclaimer, many of the resources on this list are sources the creator has 
 “OMG JANE AUSTEN: Austen and Memes in the Post #MeToo Era.” *Humanities* 2023
 
 ## Creative Interpretations
-Barbara Heller’s curation of *Pride and Prejudice* and *Persuasion* (2022)
-
-Whit Stillman’s *Love and Friendship: In Which Jane Austen's Lady Susan Vernon Is Entirely Vindicated* (2016)
-
+<ul>
+  <li>Barbara Heller’s curation of *Pride and Prejudice* and *Persuasion* (2022) </li>
+<br>
+  <li>Whit Stillman’s *Love and Friendship: In Which Jane Austen's Lady Susan Vernon Is Entirely Vindicated* (2016) </li>
+</ul>
 ## Podcasts/Websites
 <ul>
   <li>Barchas, Janine. <a href="whatjanesaw.org" target="_blank">*What Jane Saw.*</a></li>
@@ -116,8 +117,10 @@ Whit Stillman’s *Love and Friendship: In Which Jane Austen's Lady Susan Vernon
 </ul>
 
 ## Anthologies (for context and reference): 
-Burgwinkle, William; Hammond, Nicholas; Wilson, Emma. *The Cambridge History of French Literature.*
+<ul>
+ <li>Burgwinkle, William; Hammond, Nicholas; Wilson, Emma. *The Cambridge History of French Literature.* </li>
 
-Greenblatt, Stephen (general editor). *The Norton Anthology of English Literature 10th Edition A-F.* 
+ <li>Greenblatt, Stephen (general editor). *The Norton Anthology of English Literature 10th Edition A-F.*  </li>
 
-Johnson, Claudia L, and Clara Tuite, editors. *A Companion to Jane Austen.* Wiley-Blackwell, 2011.
+ <li>Johnson, Claudia L, and Clara Tuite, editors. *A Companion to Jane Austen.* Wiley-Blackwell, 2011. </li>
+</ul>
