@@ -20,7 +20,7 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>Horace Walpole’s <i>The Castle of Otranto</i> (1764)</li>
  <li>Ann Radcliffe <i>The Mysteries of Udolpho</i> (1794), <i>The Italian</i> (1797)</li>
  <li>Clara Reeve’s <i>The Old English Baron</i> (1778)</li>
- </ul>
+</ul>
 
 ### Novelists 
 (may also need to explore the “Trend of Epistolary Novels”)
@@ -30,7 +30,7 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>Samuel Johnson! Essays in the <i>Rambler</i>, <i>Idler</i>, <i>Adventurer</i>;<i>Lives of the Poets</i>, <i>Rasselas</i>...His <i>Dictionary</i></li>
  <li>Laurence Sterne<i>Tristram Shandy</i> (1759-1767)</li>
  <li>Frances Burney </li>
-</ul>
+
 
 ### Poets
 <ul>
