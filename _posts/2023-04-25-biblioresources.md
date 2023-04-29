@@ -25,9 +25,9 @@ Burke, Lauren and Chapman, Hannah K. *Bonnets at Dawn.* Soundcloud. 2018- now.
 
 Burke, Lauren; Chapman, Hannah K., and Bales, Kaley. *Why She Wrote: A Graphic History of the Lives, Inspiration, and Influence Behind the Pens of Classic Women Writers.* Chronicle Books LLT. 2021.  
 
-Flynn, Kathleen A. [*The Jane Austen Project: A Novel.*](https://thejaneaustenproject.com/) 
+Flynn, Kathleen A. <a href="https://thejaneaustenproject.com/" target="_blank">*The Jane Austen Project: A Novel*</a>
 
-*Sabor, Peter (Principal Investigator).[*Reading with Austen.*](https://www.readingwithausten.com/)
+*Sabor, Peter (Principal Investigator).<a href="https://www.readingwithausten.com/" target="_blank">*Reading with Austen*</a>.
 
 ## Critical Books: 
 Anievas, Alexander and Kerem Nisancioglu. *How the West Came to Rule: The Geopolitical 	Origins of Capitalism.* Pluto Press, 2015.
@@ -48,7 +48,7 @@ Dearden, Harvey T. *Jane Austen: The Missing Pieces.* Independently Published, 2
 Eagleton, Terry. *Literary Theory: An Introduction.* University of Minnesota Press, 1996.
 
 
-Giles, Paul. *Transatlantic Insurrections: British Culture and the Formation of American Literature, 1730-1860.* University of Pennsylvania Press, 2001. [JSTOR](www.jstor.org/stable/j.ctt3fhtvx)
+Giles, Paul. *Transatlantic Insurrections: British Culture and the Formation of American Literature, 1730-1860.* University of Pennsylvania Press, 2001. <a href="www.jstor.org/stable/j.ctt3fhtvx" target="_blank">JSTOR</a>
 
 
 Johnson, Claudia L. *Jane Austen: Women, Politics, and the Novel.* University of Chicago Press, 	1990. 
@@ -69,7 +69,7 @@ Keymer, Tom. *Jane Austen: Writing, Society, Politics. Oxford University Press*,
 Looser, Devoney. *The Making of Jane Austen.* John’s Hopkins University Press, 2019.
 
 
-Lynch, Deidre, and William B. Warner, editors. *Cultural Institutions of the Novel.* Duke University Press, 1996. [JSTOR](www.jstor.org/stable/j.ctv11smf2v)
+Lynch, Deidre, and William B. Warner, editors. *Cultural Institutions of the Novel.* Duke University Press, 1996. <a href="www.jstor.org/stable/j.ctv11smf2v" target="_blank">JSTOR</a>
 
 
 Lynch, Deirdre S. *Janeites: Austen’s Disciples and Devotees.* Princeton University Press, 2000. 
@@ -84,33 +84,31 @@ Taylor, John Tinnon. *Early Opposition to the English Novel: The Popular Reactio
 Troost, Linda and Greenfield, Sayre. *Jane Austen in Hollywood.* The University Press of Kentucky,1998. 
 
 
-Trumpener, Katie. *Bardic Nationalism: The Romantic Novel and the British Empire.* Vol. 2, Princeton University Press, 1997. [JSTOR](www.jstor.org/stable/j.ctv182jtdd)
+Trumpener, Katie. *Bardic Nationalism: The Romantic Novel and the British Empire.* Vol. 2, Princeton University Press, 1997. <a href="www.jstor.org/stable/j.ctv182jtdd" target="_blank">JSTOR</a>
 
 
 Tuite, Clara. *Romantic Austen: Sexual Politics and the Literary Canon.* Cambridge University Press, 2008. 
 
 
 ## Critical Articles/Online Articles:
-Antone, Margaret K., ["The Mutual Development in James, Henry, and Jane Austen's Early Writings"](https://engagedscholarship.csuohio.edu/etdarchive/385) (2010). ETD Archive. 385. 
+Antone, Margaret K., <a href="https://engagedscholarship.csuohio.edu/etdarchive/385" target="_blank">"The Mutual Development in James, Henry, and Jane Austen's Early Writings"</a> (2010). ETD Archive. 385. 
 
 
-Baker, Jennifer. [“How Gaslighting in Fiction Can Reflect the Realities of Psychological Abuse"](https://lithub.com/how-gaslighting-in-fiction-can-reflect-the-realities-of-psychological-abuse/), June 23rd 2021.
+Baker, Jennifer. <a href="https://lithub.com/how-gaslighting-in-fiction-can-reflect-the-realities-of-psychological-abuse/" target="_blank">“How Gaslighting in Fiction Can Reflect the Realities of Psychological Abuse"</a>, June 23rd 2021.
 
 
-Bennet, Ashly. [“Shame and Sensibility: Jane Austen's Humiliated Heroines.”](www.jstor.org/stable/43973910) *Studies in Romanticism*, vol. 54, no. 3, 2015, pp. 377–400.
+Bennet, Ashly. <a href="www.jstor.org/stable/43973910" target="_blank">“Shame and Sensibility: Jane Austen's Humiliated Heroines.”</a> *Studies in Romanticism*, vol. 54, no. 3, 2015, pp. 377–400.
 
 
-Boulukos, George E. [“The Politics of Silence: ‘Mansfield Park’ and the Amelioration of Slavery.”](www.jstor.org/stable/40267669) *NOVEL: A Forum on Fiction*, vol. 39, no. 3, 2006, pp. 361–383. *JSTOR*. 
+Boulukos, George E. <a href="www.jstor.org/stable/40267669" target="_blank">“The Politics of Silence: ‘Mansfield Park’ and the Amelioration of Slavery.”</a> *NOVEL: A Forum on Fiction*, vol. 39, no. 3, 2006, pp. 361–383. *JSTOR*. 
 
 
-Boulukos, George. [“The Secret History of the Rise of the Novel: The Novel and the Middle Class in 	English Studies.”](www.jstor.org/stable/41468153) *The Eighteenth Century*, vol. 52, no. 3/4, 2011, pp. 361–382. *JSTOR*. 
+Boulukos, George. <a href="www.jstor.org/stable/41468153" target="_blank">“The Secret History of the Rise of the Novel: The Novel and the Middle Class in English Studies.”</a> *The Eighteenth Century*, vol. 52, no. 3/4, 2011, pp. 361–382. *JSTOR*. 
 
 
-Canuel, Mark. [“Jane Austen and the Importance of Being Wrong.”](www.jstor.org/stable/25601724) *Studies in Romanticism*, vol. 44, no. 2, 2005, pp. 123–150. *JSTOR*.
+Canuel, Mark. <a href="www.jstor.org/stable/25601724" target="_blank">“Jane Austen and the Importance of Being Wrong.”</a> *Studies in Romanticism*, vol. 44, no. 2, 2005, pp. 123–150. *JSTOR*.
 
-
-Cossy, Valérie. [“Why Austen cannot be “classique” in French: New Directions in the French 	Reception of Austen.”](http://www.jasna.org/persuasions/on-line/vol30no2/cossy.html) *Persuasions On-Line*, vol. 30, no. 2. *Jane Austen Society of North America*. Spring 2010. 
-
+Cossy, Valérie. <a href="https://jasna.org/persuasions/on-line/vol30no2/cossy.html" target="_blank">“Why Austen cannot be “classique” in French: New Directions in the French Reception of Austen.”</a> *Persuasions On-Line*, vol. 30, no. 2. Jane Austen Society of North America. Spring 2010.
 
 Fraiman, Susan. “Jane Austen and Edward Said: Gender, Culture, and Imperialism.” *Critical Inquiry*, 	vol. 21, no. 4.The University of Chicago Press. Summer 1995. pp. 805-821.
 
@@ -118,34 +116,32 @@ Fraiman, Susan. “Jane Austen and Edward Said: Gender, Culture, and Imperialism
 Fraiman, Susan. “Jane Austen on the Global Stage.” *A Companion to World Literature*, Volume 	IV.  Ed. Ken Seigneurie.  New York: Wiley-Blackwell, 2020.
 
 
-Fraiman, Susan. [“The Liberation of Elizabeth Bennet in Joe Wright’s Pride & Prejudice.”](http://www.jasna.org/persuasions/on-line/vol31no1/fraiman.html) *Persuasions On-Line*, vol. 31, no.1. *Jane Austen Society of North America*. Winter 2010. 
+Fraiman, Susan. <a href="http://www.jasna.org/persuasions/on-line/vol31no1/fraiman.html" target="_blank">“The Liberation of Elizabeth Bennet in Joe Wright’s Pride & Prejudice.”</a> *Persuasions On-Line*, vol. 31, no.1. *Jane Austen Society of North America*. Winter 2010. 
 
 
-Galperin, William. [“The Picturesque, the Real, and the Consumption of Jane Austen.”](www.jstor.org/stable/24042518) *The Wordsworth Circle*, vol. 28, no. 1, 1997, pp. 19–27. *JSTOR*.
+Galperin, William. <a href="www.jstor.org/stable/24042518" target="_blank">“The Picturesque, the Real, and the Consumption of Jane Austen.”</a> *The Wordsworth Circle*, vol. 28, no. 1, 1997, pp. 19–27. *JSTOR*.
 
 
-Halsey, Katie. [“Jane Austen’s Global Influence.”](https://doi.org/10.1093/acrefore/9780190201098.013.279) Oxford University Press. 25th January 2019. 	
+Halsey, Katie. <a href="https://doi.org/10.1093/acrefore/9780190201098.013.279" target="_blank">“Jane Austen’s Global Influence.”</a> Oxford University Press. 25th January 2019. 	
 
 
-Kelly, Helena. [“Austen and Enclosure.”](http://www.jasna.org/persuasions/on-line/vol30no2/kelly.html ) *Persuasions On-Line*, vol. 30, no. 2. *Jane Austen Society of North America*. Spring 2010. 
+Kelly, Helena. <a href="http://www.jasna.org/persuasions/on-line/vol30no2/kelly.html" target="_blank">“Austen and Enclosure.”</a> *Persuasions On-Line*, vol. 30, no. 2. *Jane Austen Society of North America*. Spring 2010. 
 
 
-King, Noel J. [“Jane Austen in France.”]( www.jstor.org/stable/3044273) *Nineteenth-Century Fiction*, vol. 8, no. 1, 1953, pp. 1–	26. *JSTOR*.  Accessed 24 June 2021. 
+King, Noel J. <a href="https://www.jstor.org/stable/3044273" target="_blank">“Jane Austen in France.”</a> Nineteenth-Century Fiction, vol. 8, no. 1, 1953, pp. 1– 26. JSTOR. Accessed 24 June 2021.
+
+Kramp, Michael. “The Woman, the Gypsies, and England: Harriet Smith's National 	Role.”<a href="www.jstor.org/stable/25115177" target="_blank">“The Woman, the Gypsies, and England: Harriet Smith's National 	Role.”</a> *College Literature*, vol. 31, no. 1, 2004, pp. 147–168. *JSTOR*.   
 
 
-Kramp, Michael. [“The Woman, the Gypsies, and England: Harriet Smith's National 	Role.”](www.jstor.org/stable/25115177) *College Literature*, vol. 31, no. 1, 2004, pp. 147–168. *JSTOR*.   
+Lindley III, Dwight. <a href="https://www.nationalreview.com/2021/05/in-defense-of-jane-austen/" target="_blank">“In Defense of Jane Austen.”</a> National Review. May 16th 2021.
+
+Looser, Devoney.<a href="https://www.the-tls.co.uk/articles/jane-austen-family-slavery-essay-devoney-looser/" target="_blank">“Breaking the silence: Exploring the Austen family’s complex entanglements with slavery.”</a> *Times Literary Supplement*. May 21st 2021.  
 
 
-Lindley III, Dwight. [“In Defense of Jane Austen.” National Review. May 16th 2021.](https://www.nationalreview.com/2021/05/in-defense-of-jane-austen/) 
+Richardson, Phyllis. <a href="https://lithub.com/pride-and-property-on-the-homes-of-jane-austen/" target="_blank">“Pride and Property: On the Homes of Jane Austen.”</a> *Literary Hub*. May 14th 2021. 
 
 
-Looser, Devoney. [“Breaking the silence: Exploring the Austen family’s complex entanglements with slavery.”](https://www.the-tls.co.uk/articles/jane-austen-family-slavery-essay-devoney-looser/) *Times Literary Supplement*. May 21st 2021.  
-
-
-Richardson, Phyllis. [“Pride and Property: On the Homes of Jane Austen.”](https://lithub.com/pride-and-property-on-the-homes-of-jane-austen/ ) *Literary Hub*. May 14th 2021. 
-
-
-[“Special Issue: Jane Austen and Her Contemporaries.”](https://www.jstor.org/stable/i24573246?refreqid=excelsior%3A329868569d1a3c0c15f8370aefa707d3) *The Eighteenth Century*. Vol. 56 (No.2); Summer 2015. University of Pennsylvania Press. 
+<a href="https://www.jstor.org/stable/i24573246?refreqid=excelsior%3A329868569d1a3c0c15f8370aefa707d3" target="_blank">“Special Issue: Jane Austen and Her Contemporaries.”</a> *The Eighteenth Century*. Vol. 56 (No.2); Summer 2015. University of Pennsylvania Press. 
 
 
 ## Anthologies (for context and reference): 
