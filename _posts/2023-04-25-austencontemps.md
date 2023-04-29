@@ -5,7 +5,7 @@ title: Austen's Influences & Contemporaries
 
 In an ideal world, this site could be used to make links between Austen's predecessors and contemporaries, her works, and the adaptations that ensued after her death. For the purpose of displaying the information the creator has collected on Austen's possible influences and her contemporaries, a list of questions answered with potential authors and texts follows. 
 
-## English Literature in the 17th, 18th and 19th Century: What Came Before and After Austen
+### English Literature in the 17th, 18th and 19th Century: What Came Before and After Austen
  Questions: 
  <ul> 
  <li> What were Austen’s direct influences reading?</li>
