@@ -7,7 +7,7 @@ title: About the Project
 
 *Austen Adaptations* was created by Iman Gareeboo as a digital site catalogue of Microsoft Word documentation created in service of doctoral research. [Their personal website can be accessed here](https://imangareeboo.github.io).
 
-This project was created by downloading files from a forked version of [Pat Dryburgh's Hitchens theme from their GitHub Repository](https://github.com/patdryburgh/hitchens). The files were edited on a personal laptop, and then a new repository was created on GitHub [here](https://github.com/imangareeboo/Austen_Adaptations) where a new ReadMe.md file was created and all the files edited on the personal laptop were uploaded into the repository. 
+This project was created by downloading files from a forked version of [Pat Dryburgh's Hitchens theme from their GitHub Repository](https://github.com/patdryburgh/hitchens).  A new repository was created on GitHub with a new ReadMe.md file  and all the files edited on the personal laptop were uploaded into the repository. [*Austen Adaptations*' GitHub Repostory is accessible here](https://github.com/imangareeboo/Austen_Adaptations) and through the "GitHub Repo" link embedded at the bottom of the page next to the copyright details.
 
 From there, edits were made based on the realization, through Github's generation of the markdown files, that markdown lists require html encoding for embedded links and for italics instead of the markdown notation for both. 
 
