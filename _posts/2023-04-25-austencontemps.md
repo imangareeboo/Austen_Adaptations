@@ -22,6 +22,13 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>Clara Reeve’s <i>The Old English Baron</i> (1778)</li>
 </ul>
 
+### Poets
+<ul>
+ <li>Pope <i>The Dunciad</i> (1728-1743)</li>
+ <li>Cowper’s poetry </li>
+</ul>
+
+
 ### Novelists 
 (may also need to explore the “Trend of Epistolary Novels”)
 <ul>
@@ -32,11 +39,6 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>Frances Burney </li>
 </ul>
 
-### Poets
-<ul>
- <li>Pope <i>The Dunciad</i> (1728-1743)</li>
- <li>Cowper’s poetry </li>
-</ul>
 
 ## Austen’s Female Contemporaries 
 *(need to define popular: popular in pop culture, popular to masses, popular/easy to market…)*
