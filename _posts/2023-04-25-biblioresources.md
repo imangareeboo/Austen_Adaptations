@@ -40,7 +40,7 @@ Whit Stillman’s *Love and Friendship: In Which Jane Austen's Lady Susan Vernon
   <li>Barchas, Janine. *The Lost Books of Jane Austen.* Johns Hopkins University Press, 2019.</li>
   <br>
   <li>Cossy, Valérie. *Jane Austen in Switzerland.* Editions Slatkine, 2006.</li>
-  </br>
+  <br>
   <li>Dearden, Harvey T. *Jane Austen: The Missing Pieces.* Independently Published, 2020.</li>
   <br>
   <li>Eagleton, Terry. *Literary Theory: An Introduction.* University of Minnesota Press, 1996.</li>
