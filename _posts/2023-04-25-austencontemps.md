@@ -22,20 +22,21 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>Clara Reeve’s <i>The Old English Baron</i> (1778)</li>
  </ul>
 
-### Novelists (may also need to explore the “Trend of Epistolary Novels”)
+### Novelists 
+(may also need to explore the “Trend of Epistolary Novels”)
 <ul>
- <li>Samuel Richardson’s <i>Pamela</i> (1740), <i>Clarissa</i> (1748), <i>The History of Sir Charles Grandison</i> (1753)<li> 
+ <li>Samuel Richardson’s *Pamela* (1740), <i>Clarissa</i> (1748), <i>The History of Sir Charles Grandison</i> (1753)<li> 
  <li>Henry Fielding’s <i>The History of Tom Jones, a Foundling</i> (1749)</li>
  <li>Samuel Johnson! Essays in the <i>Rambler</i>, <i>Idler</i>, <i>Adventurer</i>;<i>Lives of the Poets</i>, <i>Rasselas</i>...His <i>Dictionary</i></li>
  <li>Laurence Sterne<i>Tristram Shandy</i> (1759-1767)</li>
  <li>Frances Burney </li>
- </ul>
+</ul>
 
 ### Poets
 <ul>
  <li>Pope <i>The Dunciad</i> (1728-1743)</li>
  <li>Cowper’s poetry </li>
- </ul>
+</ul>
 
 ## Austen’s Female Contemporaries 
 *(need to define popular: popular in pop culture, popular to masses, popular/easy to market…)*
@@ -44,20 +45,20 @@ In an ideal world, this site could be used to make links between Austen's predec
 <ul>
  <li><i>A Vindication of the Rights of Woman</i> (1792)</li>
  <li><i>An Historical and Moral View of the French Revolution</i> (1794)</li>
- </ul>
+</ul>
 
 ### Frances Burney
 <ul>
  <li><i>Evelina</i> (1778)</li>
  <li><i>Cecilia</i> (1782)</li>
  <li><i>Camilla</i> (1796)</li>
- </ul>
+</ul>
 
 ### Maria Edgeworth
 <ul>
-<li><i>Castle Rackrent</i> (1800)</li>
+ <li><i>Castle Rackrent</i> (1800)</li>
  <li><i>Belinda</i> (Austen would notably have read the 1801/1802 edition first, not the 1810 edition, censored after uproar over the mixed relationships)</li>
- </ul>
+</ul>
 
 ## Austen’s Male Contemporaries 
 
@@ -65,7 +66,7 @@ In an ideal world, this site could be used to make links between Austen's predec
 <ul>
  <li><i>Things as They Are; or, The Adventures of Caleb Williams</i> (1794)</li>
  <li><i>Memoires of the Author of A Vindication of the Rights of Woman</i> (1798)</li>
- </ul>
+</ul>
 
 ### Other Contemporaries 
 <ul>
@@ -73,4 +74,4 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>William Cowper’s <i>The Task</i></li>
  <li>Matthew Lewis (born same year as Austen, died year after Austen) <i>The Monk</i> (1796)</li>
  <li>Edmund Burke’s <i>Reflection on the Revolution</i></li>
- </ul>
+</ul>
