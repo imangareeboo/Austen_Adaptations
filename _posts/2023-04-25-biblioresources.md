@@ -75,58 +75,45 @@ Whit Stillman’s *Love and Friendship: In Which Jane Austen's Lady Susan Vernon
 </ul>
 
 ## Critical Articles/Online Articles:
-Antone, Margaret K., <a href="https://engagedscholarship.csuohio.edu/etdarchive/385" target="_blank">"The Mutual Development in James, Henry, and Jane Austen's Early Writings"</a> (2010). ETD Archive. 385. 
-
-
-Baker, Jennifer. <a href="https://lithub.com/how-gaslighting-in-fiction-can-reflect-the-realities-of-psychological-abuse/" target="_blank">“How Gaslighting in Fiction Can Reflect the Realities of Psychological Abuse"</a>, June 23rd 2021.
-
-
-Bennet, Ashly. <a href="www.jstor.org/stable/43973910" target="_blank">“Shame and Sensibility: Jane Austen's Humiliated Heroines.”</a> *Studies in Romanticism*, vol. 54, no. 3, 2015, pp. 377–400.
-
-
-Boulukos, George E. <a href="www.jstor.org/stable/40267669" target="_blank">“The Politics of Silence: ‘Mansfield Park’ and the Amelioration of Slavery.”</a> *NOVEL: A Forum on Fiction*, vol. 39, no. 3, 2006, pp. 361–383. *JSTOR*. 
-
-
-Boulukos, George. <a href="www.jstor.org/stable/41468153" target="_blank">“The Secret History of the Rise of the Novel: The Novel and the Middle Class in English Studies.”</a> *The Eighteenth Century*, vol. 52, no. 3/4, 2011, pp. 361–382. *JSTOR*. 
-
-
-Canuel, Mark. <a href="www.jstor.org/stable/25601724" target="_blank">“Jane Austen and the Importance of Being Wrong.”</a> *Studies in Romanticism*, vol. 44, no. 2, 2005, pp. 123–150. *JSTOR*.
-
-Cossy, Valérie. <a href="https://jasna.org/persuasions/on-line/vol30no2/cossy.html" target="_blank">“Why Austen cannot be “classique” in French: New Directions in the French Reception of Austen.”</a> *Persuasions On-Line*, vol. 30, no. 2. Jane Austen Society of North America. Spring 2010.
-
-Fraiman, Susan. “Jane Austen and Edward Said: Gender, Culture, and Imperialism.” *Critical Inquiry*, 	vol. 21, no. 4.The University of Chicago Press. Summer 1995. pp. 805-821.
-
-
-Fraiman, Susan. “Jane Austen on the Global Stage.” *A Companion to World Literature*, Volume 	IV.  Ed. Ken Seigneurie.  New York: Wiley-Blackwell, 2020.
-
-
-Fraiman, Susan. <a href="http://www.jasna.org/persuasions/on-line/vol31no1/fraiman.html" target="_blank">“The Liberation of Elizabeth Bennet in Joe Wright’s Pride & Prejudice.”</a> *Persuasions On-Line*, vol. 31, no.1. *Jane Austen Society of North America*. Winter 2010. 
-
-
-Galperin, William. <a href="www.jstor.org/stable/24042518" target="_blank">“The Picturesque, the Real, and the Consumption of Jane Austen.”</a> *The Wordsworth Circle*, vol. 28, no. 1, 1997, pp. 19–27. *JSTOR*.
-
-
-Halsey, Katie. <a href="https://doi.org/10.1093/acrefore/9780190201098.013.279" target="_blank">“Jane Austen’s Global Influence.”</a> Oxford University Press. 25th January 2019. 	
-
-
-Kelly, Helena. <a href="http://www.jasna.org/persuasions/on-line/vol30no2/kelly.html" target="_blank">“Austen and Enclosure.”</a> *Persuasions On-Line*, vol. 30, no. 2. *Jane Austen Society of North America*. Spring 2010. 
-
-
-King, Noel J. <a href="https://www.jstor.org/stable/3044273" target="_blank">“Jane Austen in France.”</a> Nineteenth-Century Fiction, vol. 8, no. 1, 1953, pp. 1– 26. JSTOR. Accessed 24 June 2021.
-
-Kramp, Michael. “The Woman, the Gypsies, and England: Harriet Smith's National 	Role.”<a href="www.jstor.org/stable/25115177" target="_blank">“The Woman, the Gypsies, and England: Harriet Smith's National 	Role.”</a> *College Literature*, vol. 31, no. 1, 2004, pp. 147–168. *JSTOR*.   
-
-
-Lindley III, Dwight. <a href="https://www.nationalreview.com/2021/05/in-defense-of-jane-austen/" target="_blank">“In Defense of Jane Austen.”</a> National Review. May 16th 2021.
-
-Looser, Devoney.<a href="https://www.the-tls.co.uk/articles/jane-austen-family-slavery-essay-devoney-looser/" target="_blank">“Breaking the silence: Exploring the Austen family’s complex entanglements with slavery.”</a> *Times Literary Supplement*. May 21st 2021.  
-
-
-Richardson, Phyllis. <a href="https://lithub.com/pride-and-property-on-the-homes-of-jane-austen/" target="_blank">“Pride and Property: On the Homes of Jane Austen.”</a> *Literary Hub*. May 14th 2021. 
-
-
-<a href="https://www.jstor.org/stable/i24573246?refreqid=excelsior%3A329868569d1a3c0c15f8370aefa707d3" target="_blank">“Special Issue: Jane Austen and Her Contemporaries.”</a> *The Eighteenth Century*. Vol. 56 (No.2); Summer 2015. University of Pennsylvania Press. 
-
+<ul>
+  <li>Antone, Margaret K., <a href="https://engagedscholarship.csuohio.edu/etdarchive/385" target="_blank">"The Mutual Development in James, Henry, and Jane Austen's Early Writings"</a> (2010). ETD Archive. 385. </li>
+<br>
+  <li>Baker, Jennifer. <a href="https://lithub.com/how-gaslighting-in-fiction-can-reflect-the-realities-of-psychological-abuse/" target="_blank">“How Gaslighting in Fiction Can Reflect the Realities of Psychological Abuse"</a>, June 23rd 2021.</li>
+<br>
+  <li>Bennet, Ashly. <a href="www.jstor.org/stable/43973910" target="_blank">“Shame and Sensibility: Jane Austen's Humiliated Heroines.”</a> *Studies in Romanticism*, vol. 54, no. 3, 2015, pp. 377–400.</li>
+<br>
+  <li>Boulukos, George E. <a href="www.jstor.org/stable/40267669" target="_blank">“The Politics of Silence: ‘Mansfield Park’ and the Amelioration of Slavery.”</a> *NOVEL: A Forum on Fiction*, vol. 39, no. 3, 2006, pp. 361–383. *JSTOR*.</li> 
+<br>
+  <li>Boulukos, George. <a href="www.jstor.org/stable/41468153" target="_blank">“The Secret History of the Rise of the Novel: The Novel and the Middle Class in English Studies.”</a> *The Eighteenth Century*, vol. 52, no. 3/4, 2011, pp. 361–382. *JSTOR*. </li>
+<br>
+  <li>Canuel, Mark. <a href="www.jstor.org/stable/25601724" target="_blank">“Jane Austen and the Importance of Being Wrong.”</a> *Studies in Romanticism*, vol. 44, no. 2, 2005, pp. 123–150. *JSTOR*.</li>
+<br>
+  <li>Cossy, Valérie. <a href="https://jasna.org/persuasions/on-line/vol30no2/cossy.html" target="_blank">“Why Austen cannot be “classique” in French: New Directions in the French Reception of Austen.”</a> *Persuasions On-Line*, vol. 30, no. 2. Jane Austen Society of North America. Spring 2010.</li>
+<br>
+  <li>Fraiman, Susan. “Jane Austen and Edward Said: Gender, Culture, and Imperialism.” *Critical Inquiry*, 	vol. 21, no. 4.The University of Chicago Press. Summer 1995. pp. 805-821.</li>
+<br>
+  <li>Fraiman, Susan. “Jane Austen on the Global Stage.” *A Companion to World Literature*, Volume 	IV.  Ed. Ken Seigneurie.  New York: Wiley-Blackwell, 2020.</li>
+<br>
+  <li>Fraiman, Susan. <a href="http://www.jasna.org/persuasions/on-line/vol31no1/fraiman.html" target="_blank">“The Liberation of Elizabeth Bennet in Joe Wright’s Pride & Prejudice.”</a> *Persuasions On-Line*, vol. 31, no.1. *Jane Austen Society of North America*. Winter 2010.</li> 
+<br>
+  <li>Galperin, William. <a href="www.jstor.org/stable/24042518" target="_blank">“The Picturesque, the Real, and the Consumption of Jane Austen.”</a> *The Wordsworth Circle*, vol. 28, no. 1, 1997, pp. 19–27. *JSTOR*.</li>
+<br>
+  <li>Halsey, Katie. <a href="https://doi.org/10.1093/acrefore/9780190201098.013.279" target="_blank">“Jane Austen’s Global Influence.”</a> Oxford University Press. 25th January 2019. 	</li>
+<br>
+  <li>Kelly, Helena. <a href="http://www.jasna.org/persuasions/on-line/vol30no2/kelly.html" target="_blank">“Austen and Enclosure.”</a> *Persuasions On-Line*, vol. 30, no. 2. *Jane Austen Society of North America*. Spring 2010.</li> 
+<br>
+  <li>King, Noel J. <a href="https://www.jstor.org/stable/3044273" target="_blank">“Jane Austen in France.”</a> Nineteenth-Century Fiction, vol. 8, no. 1, 1953, pp. 1– 26. JSTOR. Accessed 24 June 2021.</li>
+<br>
+  <li>Kramp, Michael. “The Woman, the Gypsies, and England: Harriet Smith's National 	Role.”<a href="www.jstor.org/stable/25115177" target="_blank">“The Woman, the Gypsies, and England: Harriet Smith's National 	Role.”</a> *College Literature*, vol. 31, no. 1, 2004, pp. 147–168. *JSTOR*.  </li>
+<br>
+  <li>Lindley III, Dwight. <a href="https://www.nationalreview.com/2021/05/in-defense-of-jane-austen/" target="_blank">“In Defense of Jane Austen.”</a> National Review. May 16th 2021.</li>
+<br>
+  <li>Looser, Devoney.<a href="https://www.the-tls.co.uk/articles/jane-austen-family-slavery-essay-devoney-looser/" target="_blank">“Breaking the silence: Exploring the Austen family’s complex entanglements with slavery.”</a> *Times Literary Supplement*. May 21st 2021. </li> 
+<br>
+  <li>Richardson, Phyllis. <a href="https://lithub.com/pride-and-property-on-the-homes-of-jane-austen/" target="_blank">“Pride and Property: On the Homes of Jane Austen.”</a> *Literary Hub*. May 14th 2021.</li>
+<br>
+  <li><a href="https://www.jstor.org/stable/i24573246?refreqid=excelsior%3A329868569d1a3c0c15f8370aefa707d3" target="_blank">“Special Issue: Jane Austen and Her Contemporaries.”</a> *The Eighteenth Century*. Vol. 56 (No.2); Summer 2015. University of Pennsylvania Press.</li>
+</ul>
 
 ## Anthologies (for context and reference): 
 Burgwinkle, William; Hammond, Nicholas; Wilson, Emma. *The Cambridge History of French Literature.*
