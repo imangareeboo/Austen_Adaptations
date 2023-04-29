@@ -19,76 +19,60 @@ Barbara Heller’s curation of *Pride and Prejudice* and *Persuasion* (2022)
 Whit Stillman’s *Love and Friendship: In Which Jane Austen's Lady Susan Vernon Is Entirely Vindicated* (2016)
 
 ## Podcasts/Websites
-Barchas, Janine. *What Jane Saw.* whatjanesaw.org 
-
-Burke, Lauren and Chapman, Hannah K. *Bonnets at Dawn.* Soundcloud. 2018- now.
-
-Burke, Lauren; Chapman, Hannah K., and Bales, Kaley. *Why She Wrote: A Graphic History of the Lives, Inspiration, and Influence Behind the Pens of Classic Women Writers.* Chronicle Books LLT. 2021.  
-
-Flynn, Kathleen A. <a href="https://thejaneaustenproject.com/" target="_blank">*The Jane Austen Project: A Novel*</a>
-
-*Sabor, Peter (Principal Investigator).<a href="https://www.readingwithausten.com/" target="_blank">*Reading with Austen*</a>.
+<ul>
+  <li>Barchas, Janine. <a href="whatjanesaw.org" target="_blank">*What Jane Saw.*</a></li>
+  <br>
+  <li>Burke, Lauren and Chapman, Hannah K. *Bonnets at Dawn.* Soundcloud. 2018- now.</li>
+  <br>
+  <li>Burke, Lauren; Chapman, Hannah K., and Bales, Kaley. *Why She Wrote: A Graphic History of the Lives, Inspiration, and Influence Behind the Pens of Classic Women Writers.* Chronicle Books LLT. 2021.</li>
+  <br>
+  <li>Flynn, Kathleen A. <a href="https://thejaneaustenproject.com/" target="_blank">*The Jane Austen Project: A Novel*</a></li>
+  <br>
+  <li>*Sabor, Peter (Principal Investigator).<a href="https://www.readingwithausten.com/" target="_blank">*Reading with Austen*</a></li>
+</ul>
 
 ## Critical Books: 
-Anievas, Alexander and Kerem Nisancioglu. *How the West Came to Rule: The Geopolitical 	Origins of Capitalism.* Pluto Press, 2015.
-
-
-Butler, Marilyn. *Jane Austen and the War of Ideas.* Clarendon Press, 1988. 
-
-
-Barchas, Janine. *The Lost Books of Jane Austen.* Johns Hopkins University Press, 2019.
-
-
-Cossy, Valérie. *Jane Austen in Switzerland.* Editions Slatkine, 2006. 
-
-
-Dearden, Harvey T. *Jane Austen: The Missing Pieces.* Independently Published, 2020. 
-
-
-Eagleton, Terry. *Literary Theory: An Introduction.* University of Minnesota Press, 1996.
-
-
-Giles, Paul. *Transatlantic Insurrections: British Culture and the Formation of American Literature, 1730-1860.* University of Pennsylvania Press, 2001. <a href="www.jstor.org/stable/j.ctt3fhtvx" target="_blank">JSTOR</a>
-
-
-Johnson, Claudia L. *Jane Austen: Women, Politics, and the Novel.* University of Chicago Press, 	1990. 
-
-
-Johnson, Claudia L. *Jane Austen’s Cults and Cultures.* University of Chicago Press, 2012. 
-
-
-Johnston, Freya. *Jane Austen, Early and Late.* Princeton University Press, 2021. 
-
-
-Kelly, Helena. *Jane Austen, the Secret Radical.* Icon Books Ltd, 2016.
-
-
-Keymer, Tom. *Jane Austen: Writing, Society, Politics. Oxford University Press*, 2020. 
-
-
-Looser, Devoney. *The Making of Jane Austen.* John’s Hopkins University Press, 2019.
-
-
-Lynch, Deidre, and William B. Warner, editors. *Cultural Institutions of the Novel.* Duke University Press, 1996. <a href="www.jstor.org/stable/j.ctv11smf2v" target="_blank">JSTOR</a>
-
-
-Lynch, Deirdre S. *Janeites: Austen’s Disciples and Devotees.* Princeton University Press, 2000. 
-
-
-Said, Edward W. *Culture and Imperialism.* Knopf Doubleday Publishing Group, 1994. 
-
-
-Taylor, John Tinnon. *Early Opposition to the English Novel: The Popular Reaction from 1760 to 	1830.* Edited by Aleks Matza. Amazon Kindle, 2014. 
-
-
-Troost, Linda and Greenfield, Sayre. *Jane Austen in Hollywood.* The University Press of Kentucky,1998. 
-
-
-Trumpener, Katie. *Bardic Nationalism: The Romantic Novel and the British Empire.* Vol. 2, Princeton University Press, 1997. <a href="www.jstor.org/stable/j.ctv182jtdd" target="_blank">JSTOR</a>
-
-
-Tuite, Clara. *Romantic Austen: Sexual Politics and the Literary Canon.* Cambridge University Press, 2008. 
-
+<ul>
+  <li>Anievas, Alexander and Kerem Nisancioglu. *How the West Came to Rule: The Geopolitical 	Origins of Capitalism.* Pluto Press, 2015.</li>
+  <br>
+  <li>Butler, Marilyn. *Jane Austen and the War of Ideas.* Clarendon Press, 1988.</li>
+  <br>
+  <li>Barchas, Janine. *The Lost Books of Jane Austen.* Johns Hopkins University Press, 2019.</li>
+  <br>
+  <li>Cossy, Valérie. *Jane Austen in Switzerland.* Editions Slatkine, 2006.</li>
+  </br>
+  <li>Dearden, Harvey T. *Jane Austen: The Missing Pieces.* Independently Published, 2020.</li>
+  <br>
+  <li>Eagleton, Terry. *Literary Theory: An Introduction.* University of Minnesota Press, 1996.</li>
+  <br>
+  <li>Giles, Paul. *Transatlantic Insurrections: British Culture and the Formation of American Literature, 1730-1860.* University of Pennsylvania Press, 2001. <a href="www.jstor.org/stable/j.ctt3fhtvx" target="_blank">JSTOR</a></li>
+  <br>
+  <li>Johnson, Claudia L. *Jane Austen: Women, Politics, and the Novel.* University of Chicago Press, 1990.</li>
+  <br>
+  <li>Johnson, Claudia L. *Jane Austen’s Cults and Cultures.* University of Chicago Press, 2012.</li>
+  <br>
+  <li>Johnston, Freya. *Jane Austen, Early and Late.* Princeton University Press, 2021.</li>
+  <br>
+  <li>Kelly, Helena. *Jane Austen, the Secret Radical.* Icon Books Ltd, 2016.</li>
+  <br>
+  <li>Keymer, Tom. *Jane Austen: Writing, Society, Politics. Oxford University Press*, 2020.</li>
+  <br>
+  <li>Looser, Devoney. *The Making of Jane Austen.* John’s Hopkins University Press, 2019.</li>
+  <br>
+  <li>Lynch, Deidre, and William B. Warner, editors. *Cultural Institutions of the Novel.* Duke University Press, 1996. <a href="www.jstor.org/stable/j.ctv11smf2v" target="_blank">JSTOR</a></li>
+  <br>
+  <li>Lynch, Deirdre S. *Janeites: Austen’s Disciples and Devotees.* Princeton University Press, 2000.</li>
+  <br>
+  <li>Said, Edward W. *Culture and Imperialism.* Knopf Doubleday Publishing Group, 1994.</li>
+  <br>
+  <li>Taylor, John Tinnon. *Early Opposition to the English Novel: The Popular Reaction from 1760 to 	1830.* Edited by Aleks Matza. Amazon Kindle, 2014.</li>
+  <br>
+  <li>Troost, Linda and Greenfield, Sayre. *Jane Austen in Hollywood.* The University Press of Kentucky,1998.</li>
+  <br>
+  <li>Trumpener, Katie. *Bardic Nationalism: The Romantic Novel and the British Empire.* Vol. 2, Princeton University Press, 1997. <a href="www.jstor.org/stable/j.ctv182jtdd" target="_blank">JSTOR</a></li>
+  <br>
+  <li>Tuite, Clara. *Romantic Austen: Sexual Politics and the Literary Canon.* Cambridge University Press, 2008.</li>
+</ul>
 
 ## Critical Articles/Online Articles:
 Antone, Margaret K., <a href="https://engagedscholarship.csuohio.edu/etdarchive/385" target="_blank">"The Mutual Development in James, Henry, and Jane Austen's Early Writings"</a> (2010). ETD Archive. 385. 
