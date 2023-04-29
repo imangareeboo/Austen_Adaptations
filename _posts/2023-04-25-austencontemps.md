@@ -52,7 +52,8 @@ In an ideal world, this site could be used to make links between Austen's predec
  <li>Edmund Burke’s <i>Reflection on the Revolution</i></li>
 </ul>
 
-## What did Jane Austen read? (this needs massive expansion/research)
+## What did Jane Austen read? 
+
 ### Gothic and Pulp fiction 
 <ul>
  <li>Horace Walpole’s <i>The Castle of Otranto</i> (1764)</li>
