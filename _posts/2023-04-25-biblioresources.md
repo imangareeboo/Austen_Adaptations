@@ -19,6 +19,7 @@ As a disclaimer, many of the resources on this list are sources the creator has 
 <br>
   <li>Whit Stillman’s *Love and Friendship: In Which Jane Austen's Lady Susan Vernon Is Entirely Vindicated* (2016) </li>
 </ul>
+
 ## Podcasts/Websites
 <ul>
   <li>Barchas, Janine. <a href="whatjanesaw.org" target="_blank">*What Jane Saw.*</a></li>
