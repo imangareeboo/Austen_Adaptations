@@ -5,7 +5,7 @@ title: About the Project
 
 ### The Process 
 
-*Austen Adaptations* was created by Iman Gareeboo as a digital site catalogue of Microsoft Word documentation created in service of doctoral research. Their personal website can be accessed <a href="https://imangareeboo.github.io" target:"_blank"><b>here</b></a>.
+*Austen Adaptations* was created by Iman Gareeboo as a digital site catalogue of Microsoft Word documentation created in service of doctoral research. Their personal website can be accessed<a href="https://imangareeboo.github.io" target:"_blank"><b>here</b></a>.
 
 This project was created by downloading files from a forked version of Pat Dryburgh's Hitchens theme from <a href="https://github.com/patdryburgh/hitchens" target="_blank"><b>their Github Repository</b></a>.  A new repository was created on GitHub with a new ReadMe.md file  and all the files edited on the personal laptop were uploaded into the repository. *Austen Adaptations*' GitHub Repostory is accessible <a href="https://github.com/imangareeboo/Austen_Adaptations" target="_blank"><b>here</b></a> and through the "GitHub Repo" link embedded at the bottom of the page next to the copyright details.
 
